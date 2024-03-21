@@ -1,11 +1,10 @@
 const me = {
-  first: "Daniel",
-  last: "Deverell",
+  first: "Danielle",
+  last: "Programmi",
   job: "web designer",
   links: {
     social: {
       twitter: "@dannyboynyc",
-      facebook: "https://linkedin.com/danieldeverell",
     },
     web: {
       blog: "http://deverell.dev",
