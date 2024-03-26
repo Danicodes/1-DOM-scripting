@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
   "singleQuote": false,
   "trailingComma": "all",
   "semi": true,
   "tabWidth": 4,
   "arrowParens": "always"
+=======
+    "singleQuote": true,
+    "trailingComma": "all",
+    "semi": true,
+    "tabWidth": 4,
+    "arrowParens": "avoid"
+>>>>>>> Updating page style
 }
